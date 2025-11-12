@@ -11,24 +11,16 @@ The MQ series sensors were calibrated for over 24 hours.
 
 Hardware Used
 
-ESP32 Microcontroller
-
-MQ-135 Gas Sensor
-
-MQ-3 Gas Sensor
-
-MQ-137 Gas Sensor
-
-DHT22 Temperature & Humidity Sensor
+*ESP32 Microcontroller
+*MQ-135 Gas Sensor
+*MQ-3 Gas Sensor
+*MQ-137 Gas Sensor
+*DHT22 Temperature & Humidity Sensor
 
 Software Used
 
-Arduino IDE (for firmware)
-
-Python (scikit-learn, joblib, pickle)
-
-Flask Framework
-
-ThingSpeak Cloud Platform
-
-Azure Web App for model deployment
+*Arduino IDE (for firmware)
+*Python (scikit-learn, joblib, pickle)
+*Flask Framework
+*ThingSpeak Cloud Platform
+*Azure Web App for model deployment
